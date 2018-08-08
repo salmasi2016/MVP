@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MVPTest</string>
+    <string name="navigation">جهت یابی</string>
+    <string name="userName">نام کاربر</string>
+    <string name="profile">پروفایل</string>
+    <string name="aboutUs">درباره ما</string>
+    <string name="contactUs">تماس با ما</string>
+    <string name="mainPage">صفحه اصلی</string>
+    <string name="categories">دسته بندی ها</string>
+    <string name="name">نام</string>
+    <string name="lastName">نام خانوادگی</string>
+    <string name="email">ایمیل</string>
+    <string name="enter">ورود</string>
+    <string name="cancle">انصراف</string>
+    <string name="about1">سینا الماسی</string>
+    <string name="about2">کاراموز دوره اندروید</string>
+    <string name="about3">شرکت یارا</string>
+    <string name="myGmail">gmail : salmasi2016@gmail.com</string>
+    <string name="myGit">git : https://github.com/salmasi2016/karamoziProject1</string>
+    <string name="submit">اضافه کردن</string>
+    <string name="str_users">کاربران</string>
+</resources>

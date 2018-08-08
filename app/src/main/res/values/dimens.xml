@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="navigationWidth">240dp</dimen>
+    <dimen name="textSize1">15sp</dimen>
+    <dimen name="textSize2">18sp</dimen>
+    <dimen name="heightView">2dp</dimen>
+</resources>
